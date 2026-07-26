@@ -22,4 +22,4 @@
 
 如图所示：
 
-<img src="/Users/piaoxiang/Documents/nlp-llm-learning/figures/model_comparison.png" alt="model_comparison" style="zoom:48%;" />
+<img src="./figures/model_comparison.png" alt="model_comparison" style="zoom:48%;" />
