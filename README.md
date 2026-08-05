@@ -23,3 +23,17 @@
 如图所示：
 
 <img src="./figures/model_comparison.png" alt="model_comparison" style="zoom:48%;" />
+
+
+
+
+
+| Model    | Train Loss | Val Loss | Acc    |
+| -------- | ---------- | -------- | ------ |
+| AdaLoRA  | 0.3354     | 0.3597   | 89.90% |
+| LoRA     | 0.3031     | 0.3183   | 93.56% |
+| P-Tuning | 1.0261     | 1.0366   | 83.14% |
+
+<img src="./figures/peft_combined.png" alt="peft_combined" style="zoom:48%;" />
+
+<img src="./figures/peft_three_columns.png" alt="peft_three_columns" style="zoom:48%;" />
